@@ -63,10 +63,12 @@ This helps answer:
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Dashboard](images/dashboard1.png)
+![Executive Dashboard]<img width="1600" height="900" alt="Screenshot 2026-03-24 104942" src="https://github.com/user-attachments/assets/63cc4aff-1273-4030-82dd-87dfcf49b91c" />
+
 
 ### Engagement Analysis
-![Engagement Dashboard](images/dashboard2.png)
+![Engagement Dashboard]<img width="1600" height="900" alt="Screenshot 2026-03-24 105024" src="https://github.com/user-attachments/assets/fac9f290-686a-4654-9099-861ae436ed9f" />
+
 
 ---
 
