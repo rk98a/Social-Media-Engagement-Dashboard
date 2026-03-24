@@ -21,15 +21,32 @@ To achieve this, I built an interactive dashboard in Tableau for easy exploratio
 
 ## Dashboards
 
-### 1. Executive Overview
-This dashboard provides a quick summary of performance:
-- Engagement by Channel
-- Best Time to Post (line chart)
-- Engagement Heatmap (day vs channel)
+This project includes two dashboards designed for different purposes:
 
-This helps answer:
-"When and where should content be posted?"
+### 1. Executive Overview Dashboard
+This dashboard provides a high-level summary of social media performance.
 
+It includes:
+- Engagement by Channel (Bar Chart)
+- Best Time to Post (Line Chart)
+- Engagement Heatmap (Day vs Channel)
+
+Purpose:
+To quickly understand when and where content performs best.
+
+---
+
+### 2. Campaign Performance Dashboard
+This dashboard focuses on analyzing individual campaign performance.
+
+It includes:
+- Bar chart (Engagement Rate vs Acquisition Cost)
+- Color representing Channel Used
+
+Purpose:
+To identify high-performing and low-performing campaigns and understand engagement patterns.
+
+---
 ---
 
 ### 2. Engagement Analysis
@@ -53,6 +70,11 @@ This helps answer:
 
 ---
 
+## Links
+- Tableau Dashboard:https://public.tableau.com/views/dashboard2_17743324808530/ExecutiveOverviewDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Tableau Dashboard :https://public.tableau.com/views/dashboard2_17743324808530/CampaignPerformancebyChannel2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+  
 ## Features
 - Interactive filters (Location, Campaign Type, Customer Segment)
 - Clean and structured dashboard layout
