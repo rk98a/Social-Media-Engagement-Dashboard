@@ -63,11 +63,11 @@ This helps answer:
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Dashboard]<img width="1600" height="900" alt="Screenshot 2026-03-24 104942" src="https://github.com/user-attachments/assets/63cc4aff-1273-4030-82dd-87dfcf49b91c" />
+![Executive Dashboard]<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ee75ab5f-0950-41a1-a88d-8d4092171a31" />
 
 
 ### Engagement Analysis
-![Engagement Dashboard]<img width="1600" height="900" alt="Screenshot 2026-03-24 105024" src="https://github.com/user-attachments/assets/fac9f290-686a-4654-9099-861ae436ed9f" />
+![Engagement Dashboard]<img width="1600" height="900" alt="Screenshot 2026-03-24 104942" src="https://github.com/user-attachments/assets/1c6b2c61-03bc-4868-924a-88ad4dcba11c" />
 
 
 ---
