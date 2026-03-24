@@ -1,75 +1,93 @@
-# Marketing-Campaign-Dashboard
- Excel,  Tableau Dashboard.
+
+
+# Social Media Engagement Dashboard
 
 ## About This Project
-I built this project to understand how marketing campaigns perform using data.
+This project focuses on analyzing social media performance using data.
 
-The goal was to answer practical questions such as:
-- Which campaigns are profitable?
-- Are we spending too much for low returns?
-- When is the best time to post content?
+The goal was to understand how engagement changes based on channel, time, and audience, and to identify patterns that can help improve content strategy.
 
-To explore this, I created an interactive dashboard in Tableau.
+To achieve this, I built an interactive dashboard in Tableau for easy exploration and analysis.
 
+---
 
 ## Objectives
-- Analyze ROI versus Acquisition Cost
-- Identify best time and day to post
-- Compare engagement across marketing channels
-- Enable interactive data exploration
--------------------------------------
+- Analyze engagement across different social media channels
+- Identify the best time and day to post content
+- Understand patterns in user interaction and performance
+- Enable interactive data exploration using filters
+
+---
 
 ## Dashboards
 
 ### 1. Executive Overview
-This dashboard provides quick insights:
-- Engagement by channel
-- Best time to post (line chart)
-- Engagement heatmap (day vs channel)
+This dashboard provides a quick summary of performance:
+- Engagement by Channel
+- Best Time to Post (line chart)
+- Engagement Heatmap (day vs channel)
 
 This helps answer:
-"When should we post and where?"
+"When and where should content be posted?"
 
---------------------------------------
+---
 
-### 2. Campaign Deep Dive
-This dashboard focuses on performance analysis:
-- Scatter plot (ROI vs Acquisition Cost)
-- Bubble size represents clicks
-- Color represents channel
+### 2. Engagement Analysis
+This dashboard focuses on deeper insights:
+- Relationship between Engagement Rate and other factors
+- Comparison across channels and campaigns
+- Visual exploration using interactive filters
 
 This helps answer:
-"Which campaigns are worth the investment?"
+"What drives higher engagement?"
 
-------------------------------------------------
+---
 
-## Features
-- Interactive filters (Location, Campaign Type, Customer Segment)
-- Click-based interactions between charts
-- Clean and structured layout
-
------------------------------------------------
 ## Dashboard Preview
 
 ### Executive Overview
 ![Executive Dashboard](images/dashboard1.png)
 
-### Campaign Deep Dive
-![Campaign Dashboard](images/dashboard2.png)
+### Engagement Analysis
+![Engagement Dashboard](images/dashboard2.png)
 
--------------------------------------------------
+---
+
+## Features
+- Interactive filters (Location, Campaign Type, Customer Segment)
+- Clean and structured dashboard layout
+- Visualizations designed based on data type (bar, line, heatmap, scatter)
+- Easy-to-use interface for exploring insights
+
+---
+
+## Dataset
+The dataset used in this project is included in the `/data` folder.
+
+It contains:
+- Campaign details
+- Channel information
+- Engagement metrics
+- Time and date fields
+- Audience and location data
+
+---
+
 ## Key Insights
-- Some campaigns show high cost but low ROI, indicating inefficient spending
-- Certain channels consistently deliver better engagement
-- Posting time and day significantly impact engagement rate
+- Engagement varies significantly across different channels
+- Certain days and time slots consistently show higher engagement
+- Some campaigns perform better for specific audience segments
 
-----------------------------------------------
+---
 
 ## Tools Used
 - Tableau
 - Excel
 
----------------------------------------------
+---
+
+## About Me
+I am learning data analytics and building projects like this to improve my skills and understand real-world data problems.
 
 ## About Me
 I am learning data analytics and building projects like this to improve my skills and understand real-world business problems.
